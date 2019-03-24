@@ -1,0 +1,7 @@
+name: SnailSpam
+main: me.shenanigans.snailspam.Main
+version: 1.0.0
+commands:
+  snail:
+    description: snail
+    usage: /snail

@@ -1,0 +1,7 @@
+name: SlimeChunkValidator
+main: me.shenanigans.slimechunkfinder.Main
+version: 1.0
+commands:
+   isslime:
+      description: Returns weather the current chunk is a slime chunk or not
+      usage: /isslime

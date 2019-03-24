@@ -1,0 +1,7 @@
+name: Explode
+main: me.shenanigans.explode.Main
+version: 1.0
+commands:
+   explode:
+      description: Makes you explode
+      usage: /explode

@@ -1,0 +1,5 @@
+name: Gamershot
+version: 1.0
+main: me.shenanigans.gamershot.Main
+description: G A M E R S H O T
+commands:

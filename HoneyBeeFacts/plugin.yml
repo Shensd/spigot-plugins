@@ -1,0 +1,7 @@
+name: BeeFacts
+main: me.shenanigans.honeybeefacts.Main
+version: 1.0.0
+commands:
+  beefacts:
+    description: Recieve a random bee fact!
+    usage: /beefacts

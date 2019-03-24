@@ -1,0 +1,10 @@
+name: Stats
+main: me.shenanigans.stats.Main
+version: 1.0.0
+commands:
+  stats:
+    description: View your personal stats
+    usage: /stats [group (list to see groups)]
+  statpeek:
+    description: View the stats of another player
+    usage: /statpeek [player name]

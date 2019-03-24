@@ -1,0 +1,7 @@
+name: RideDragon
+main: me.shenanigans.ridedragon.Main
+version: 1.0
+commands:
+  ridedragon:
+    description: ride a dragon
+    usage: /ridedragon

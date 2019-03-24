@@ -1,0 +1,7 @@
+name: Velocty
+main: me.shenanigans.velocity.Main
+version: 1.0
+commands:
+  velocity:
+    description: change the player's velocty
+    usage: /velocity [set|add] x y z

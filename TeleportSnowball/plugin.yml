@@ -1,0 +1,7 @@
+name: TeleportEgg
+main: me.shenanigans.teleportsnowball.Main
+version: 1.0
+commands:
+    eggsthrown:
+        description: Tells a user how many eggs they have thrown
+        usage: /eggsthrown

@@ -1,0 +1,8 @@
+name: Mention
+description: When a player is mentioned the message is highlighted in red for them
+version: 1.0
+main: me.shenanigans.mention.Main
+commands:
+  togglesound:
+    description: toggle sound played when mentioned
+    usage: /togglesound

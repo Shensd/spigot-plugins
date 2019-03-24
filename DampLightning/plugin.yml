@@ -1,0 +1,4 @@
+name: DampLightning
+main: me.shenanigans.damplightning.Main
+version: 1.0
+commands:
